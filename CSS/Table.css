@@ -1,0 +1,26 @@
+* {
+    
+}
+table {
+    border: 1px solid gray;
+    border-collapse: collapse;
+}
+.nt {
+    border: 0;
+}
+
+td ,th {
+    border: 1px solid gray;
+    text-align: center;
+    padding: 3px;
+    text-align: center;
+    margin:3px;
+
+}
+
+nested-t   {
+    border: 1px solid black;
+    border-collapse: separate;
+
+}
+

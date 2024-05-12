@@ -1,0 +1,24 @@
+.container {
+    width: auto;
+    background-color: white;
+    border: 0;
+    display: block;
+    margin-left: 0;
+}
+div {
+    background-color: red;
+    border: 1px solid black;
+    color: white;
+    font-weight: bold;
+    display: inline-block;
+    margin-left: 10px;
+    width:7%;
+    height: 30px;
+    text-align: center;
+
+
+}
+
+.ev {
+    visibility: hidden;
+}

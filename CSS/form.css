@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(54, 240, 240);
+    height: 100vh;
+}
+
+h1 {
+    text-align: center;
+
+}
+.container  {
+    margin: 0 10% ;
+    background-color: white;
+    border-radius: 6px;
+    height: 100%;
+}
+.container p {
+    text-align: center;
+}
+
+form div {
+    margin : 5px;
+    width:80;
+    text-align: center;
+}
+
+form div input, form div label {
+    display: inline-block;
+}
+
+input , label, option {
+    height: 30px;
+}
